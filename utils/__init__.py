@@ -1,1 +1,2 @@
 from .identify_rush_hour import identify_rush_hour
+from .cap_outliers_iqr import cap_outliers_iqr
